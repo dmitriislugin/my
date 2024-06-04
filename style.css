@@ -1,0 +1,11 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.head {
+    background-image: url(./logo/tittle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
